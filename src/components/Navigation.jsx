@@ -8,12 +8,12 @@ const Navigation = () => {
     <div className="nav">
       <div className="navcontent">
         <a
-          href="https://ananay.netlify.app"
+          href="https://github.com/sudeepsharmatalu"
           style={{ fontStyle: 'italic', textDecoration: 'none', color: 'white', border: 'none' }}
           target="_blank"
           rel="noopener noreferrer"
         >
-          Project J
+          College Discovery Platform
         </a>
         {location.pathname === '/' ? (
           <Link className="button" to="/explore">

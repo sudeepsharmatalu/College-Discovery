@@ -1,6 +1,6 @@
 [
   {
-    "question": "What is Project J?",
+    "question": "What is College Discovery Platform ?",
     "answer": "This tool serves as a college predictor, assisting you in exploring potential engineering college admissions. It factors in your JEE Main performance (rank or percentile), category, gender, home state, and institute preferences to generate estimated predictions, drawing upon data from: <ul><li><a href=\"https://josaa.admissions.nic.in/applicant/SeatAllotmentResult/CurrentORCR.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">JoSAA</a> Round 5 2024 data</li><li><a href=\"https://admissions.nic.in/UPTAC/applicant/report/orcrreport.aspx?enc=yVQCIiq12npg+pcvNJRdcww8ijHE0M3JICo+UehfedimJjvXET+LsPwN9AEcJEnE\" target=\"_blank\" rel=\"noopener noreferrer\">AKTU</a> Round 4 data</li><li><a href=\"https://jacdelhi.admissions.nic.in/or-cr/\" target=\"_blank\" rel=\"noopener noreferrer\">JAC Delhi (DTU, NSUT)</a> Round 5 data</li></ul>"
   },
   {
@@ -8,7 +8,7 @@
     "answer": "No, this tool primarily utilizes data from JoSAA Round 5 2024, AKTU Round 4, and JAC Delhi (DTU, NSUT) Round 5. Data from CSAB is not included."
   },
   {
-    "question": "Is my data safe with Project J?",
+    "question": "Is my data safe with College Discovery Platform ?",
     "answer": "Yes, your prediction inputs are not stored. For the 'Save' feature, we record college names under your IP address to track your interests. Your IP is solely for saving your choices; we do not use it for other tracking or profiling. Your privacy is respected."
   },
   {
@@ -20,7 +20,7 @@
     "answer": "Official cutoff ranks are available on the official websites of the respective counselling authorities: <ul><li><a href=\"https://josaa.admissions.nic.in/\" target=\"_blank\" rel=\"noopener noreferrer\">JoSAA</a></li><li><a href=\"https://admissions.nic.in/UPTAC/\" target=\"_blank\" rel=\"noopener noreferrer\">AKTU</a></li><li><a href=\"https://jacdelhi.admissions.nic.in/\" target=\"_blank\" rel=\"noopener noreferrer\">JAC Delhi</a></li></ul>"
   },
   {
-    "question": "What data from other counselling processes is NOT included in Project J?",
+    "question": "What data from other counselling processes is NOT included in College Discovery Platform ?",
     "answer": "The current database comprises data from the Joint Seat Allocation Authority (JoSAA), AKTU, and JAC Delhi. Information from other counselling bodies like CSAB, MHT CET, COMEDK, and similar platforms is not part of this predictor's scope."
   },
   {
@@ -32,11 +32,11 @@
     "answer": "You can support the development by providing feedback, sharing the tool with others, and reporting any issues you encounter. Your input helps improve the tool for future users."
   },
   {
-    "question": "Who developed Project J?",
-    "answer": "<a href=\"https://www.linkedin.com/in/ananaydubey\" target=\"_blank\" rel=\"noopener noreferrer\">Ananay Dubey</a>"
+    "question": "Who developed College Discovery Platform ?",
+    "answer": "Sudeep Sharma"
   },
   {
     "question": "How can I contact the developer for feedback or issues?",
-    "answer": "You can reach me at <a href=\"mailto:spacify1807@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\">spacify1807@gmail.com</a> for feedback or to report any issues."
+    "answer": "You can reach me at <a href=\"mailto:sudeepsharma709@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\">sudeepsharma709@gmail.com</a> for feedback or to report any issues."
   }
 ]
