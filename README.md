@@ -34,19 +34,6 @@ project-j-react
 └── .gitignore               # Specifies files to be ignored by Git
 ```
 
-## Installation
-1. Clone the repository:
-   ```
-   git clone <repository-url>
-   ```
-2. Navigate to the project directory:
-   ```
-   cd project-j-react
-   ```
-3. Install the dependencies:
-   ```
-   npm install
-   ```
 
 ## Usage
 To start the development server, run:
@@ -64,5 +51,3 @@ This will launch the application in your default web browser at `http://localhos
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
-## License
-This project is licensed under the MIT License.
