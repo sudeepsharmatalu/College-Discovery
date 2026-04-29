@@ -35,12 +35,6 @@ project-j-react
 ```
 
 
-## Usage
-To start the development server, run:
-```
-npm start
-```
-This will launch the application in your default web browser at `http://localhost:3000`.
 
 ## Features
 - User input for JEE Mains rank and percentile.
